@@ -1,0 +1,33 @@
+fa:
+    locale_name: Farsi
+    nav:
+      about: درباره
+      contribute: مشارکت
+    index:
+        lead: نرم‌افزار های متن‌باز به دست افرادی مثل شما ساخته می شوند. اینجا یاد بگیرید که چطور پروژه خود را شروع کنید و آن را توسعه دهید.
+        opensourcefriday: امروز جمعه ست. چند ساعت برای مشارکت در پروژه هایی که استفاده می کنید و دوستشون دارید وقت بزارید.
+    article:
+      table_of_contents: فهرست مطالب
+      back_to_all_guides: بازگشت به کلیه راهنماها
+      related_guides: راهنما‌های مرتبط
+    footer:
+      contribute:
+        heading: مشارکت
+        description: Want to make a suggestion? This content is open source. Help us improve it.
+        description: پیشنهادی دارید؟ این محتوا متن‌باز است. به ما کمک کنید آن را بهتر کنیم.
+        button: مشارکت
+      subscribe:
+        heading: در تماس باشید
+        description: جزو اولین افرادی باشید که از آخرین ترفند ها و منابع متن‌باز گیت‌هاب مطلع می شوید.
+        label: آدرس ایمیل
+        button: مشترک شوید
+      byline:
+        # [code], [love], and [github] will be replaced by octicons
+        format: "[code] با [love] بدست [github] و [friends]"
+        # Label for code octicon
+        code_label: کد
+        # Label for love octicon
+        love_label: عشق
+        # Label for the contributors link
+        friends_label: دوستان
+  
